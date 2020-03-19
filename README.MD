@@ -28,3 +28,8 @@
     > - new file:   apps/base/migrations/0001_initial.py
     > - new file:   apps/base/migrations/__pycache__/0001_initial.cpython-37.pyc
     > - modified:   apps/base/models.py
+
+#### 2. Add model to admin
+
+    > - modified:   apps/base/__pycache__/admin.cpython-37.pyc
+    > - modified:   apps/base/admin.py
