@@ -33,3 +33,17 @@
 
     > - modified:   apps/base/__pycache__/admin.cpython-37.pyc
     > - modified:   apps/base/admin.py
+
+#### 3. Add images and posts
+
+    > - modified:   _core/__pycache__/urls.cpython-37.pyc
+    > - modified:   _core/config/__pycache__/development.cpython-37.pyc
+    > - modified:   _core/config/development.py
+    > - modified:   _core/db.sqlite3
+    > - new file:   _core/media/categoria/game.jpg
+    > - new file:   _core/media/categoria/technology.jpg
+    > - new file:   _core/media/imagenes/10.JPG
+    > - new file:   _core/media/imagenes/14.JPG
+    > - new file:   _core/media/imagenes/sukardi_rai.JPG
+    > - new file:   _core/media/imagenes/sukardi_rai8.JPG
+    > - modified:   _core/urls.py
